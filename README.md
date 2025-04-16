@@ -1,18 +1,75 @@
-### Hi there 👋
-Have a good visit.
-...................
-Om Swami
-<!--
-**MrImmortal09/MrImmortal09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner -->
+<h1 align="center">Hey 👋, I'm Om Swami</h1>
+<h3 align="center">IT Undergrad | Blockchain Enthusiast | Full Stack Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech IT student at [IIIT Lucknow](https://iiitl.ac.in/)
+- 💻 Building at the intersection of Blockchain, Full Stack & Security
+- 📫 Reach me at: [reach.oms2004@gmail.com](mailto:reach.oms2004@gmail.com)
+- 🌐 Portfolio: Work in Progress 
+
+---
+
+## 🧰 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+
+---
+
+## 🌟 Projects
+
+### 🔹 [Serenity](https://serenity.stepdev.tech)
+> A decentralized stock exchange platform  
+
+### 🔹 [SoulBuddy](https://soulbuddy.stepdev.tech)
+> A tech-meets-spirituality app for Kundali, Horoscope, and more  
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Prize** – Dappathon by Spheron Network ([Link](https://x.com/SpheronFDN/status/1849789777307914494))
+- 🥉 **3rd Prize** – HackOFiesta v5, Blockchain Track ([Link](https://x.com/hof_iiitl/status/1787000797693149411))
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/omswami2004/"><img src="https://img.shields.io/badge/-Om%20Swami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omswami2004"/></a>
+  <a href="https://github.com/MrImmortal09"><img src="https://img.shields.io/github/followers/MrImmortal09?label=GitHub&style=social" /></a>
+  <a href="mailto:reach.oms2004@gmail.com"><img src="https://img.shields.io/badge/-reach.oms2004@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrImmortal09&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" />
+  <img src="https://streak-stats.demolab.com/?user=MrImmortal09&theme=radical" alt="GitHub Streak" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MrImmortal09&theme=redical" width="100%" />
+</p>
+
+---
