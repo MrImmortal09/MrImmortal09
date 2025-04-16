@@ -2,12 +2,6 @@
 <h1 align="center">Hey 👋, I'm Om Swami</h1>
 <h3 align="center">IT Undergrad | Blockchain Enthusiast | Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 B.Tech IT student at [IIIT Lucknow](https://iiitl.ac.in/)
@@ -57,19 +51,6 @@
   <a href="https://www.linkedin.com/in/omswami2004/"><img src="https://img.shields.io/badge/-Om%20Swami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omswami2004"/></a>
   <a href="https://github.com/MrImmortal09"><img src="https://img.shields.io/github/followers/MrImmortal09?label=GitHub&style=social" /></a>
   <a href="mailto:reach.oms2004@gmail.com"><img src="https://img.shields.io/badge/-reach.oms2004@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrImmortal09&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" />
-  <img src="https://streak-stats.demolab.com/?user=MrImmortal09&theme=radical" alt="GitHub Streak" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MrImmortal09&theme=redical" width="100%" />
 </p>
 
 ---
