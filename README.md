@@ -24,7 +24,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
 ---
 
