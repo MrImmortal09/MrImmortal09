@@ -29,6 +29,11 @@
 
 ## 🌟 Projects
 
+### 🔹 [Student Hub](https://studenthub.axiosiiitl.dev)
+> A full-stack student community platform for collaboration, resource sharing, and real-time discussions  
+> • Serves 300+ monthly active users  
+> • Open-source project with **30+ forks**, actively used by the institute
+
 ### 🔹 [Serenity](https://serenity.stepdev.tech)
 > A decentralized stock exchange platform  
 
