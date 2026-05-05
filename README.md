@@ -34,12 +34,6 @@
 > • Serves 300+ monthly active users  
 > • Open-source project with **30+ forks**, actively used by the institute
 
-### 🔹 [Serenity](https://serenity.stepdev.tech)
-> A decentralized stock exchange platform  
-
-### 🔹 [SoulBuddy](https://soulbuddy.stepdev.tech)
-> A tech-meets-spirituality app for Kundali, Horoscope, and more  
-
 ---
 
 ## 🏆 Achievements
